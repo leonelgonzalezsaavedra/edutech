@@ -1,0 +1,27 @@
+/*--Estilos para la Tarea--*/
+body{
+font-family: Arial, sans-serif;
+background-color: #f8f9fa;
+}
+
+h2{
+color: #0d6efd;
+}
+
+form{
+max-width: 700px;
+margin: auto;
+}
+
+footer{
+margin-top: 20px;
+}
+
+.carreras{
+margin-top: 40px;
+}
+
+.btn-carreras{
+margin-bottom: 40px;
+}
+
